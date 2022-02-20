@@ -5,6 +5,9 @@
 
 title: Circuits Ninja Blog # Website name
 baseURL: 'https://blog.circuits.ninja/' # Website URL
+- icon: circuitninja
+  icon_pack: custom
+  link: icon
 
 ############################
 ## PAGE OPTIONS
@@ -40,6 +43,7 @@ module:
   imports:
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5
+
 
 ############################
 ## ADVANCED
